@@ -1,0 +1,13 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <internal_templates>
+      <template name="Scala Class.scala" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
+    <includes_templates>
+      <template name="File Header.java" reformat="true" live-template-enabled="true" enabled="true" />
+    </includes_templates>
+    <code_templates>
+      <template name="ScalaTest Class.scala" reformat="true" live-template-enabled="true" enabled="true" />
+    </code_templates>
+  </component>
+</application>
